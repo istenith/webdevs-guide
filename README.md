@@ -54,10 +54,15 @@ For delightful experience... **!!STEEP LEARNING CURVE!!**
 **NOTE:** By VS Code we mean Visual Studio **Code** and not visual studio, code
 is a cross platform text editor. Visual Studio would be an overkill for web-d.
 
+### Plugins
 There are plenty of plugins available for VS code and NeoVim that will prove
 to be helpful in development.
 
-### Common Plugins
+For VS code get plugins from `extensions` option in dock on left.
+For NeoVim get plugin managers like Vim Plug, Vundle etc. and search for awesome
+plugins from [Vim Awesome](https://vimawesome.com).
+
+***Common Pugins**
 - VS Code/Codium
 	- **Prettier** *beautify code*
 
