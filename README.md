@@ -6,6 +6,9 @@ a level of proficiency with web-development technologies and stacks.
 If you are new to **Open source**, `README.md` is the first file you should read
 in any project.
 
+If you want to add something or put something in a better way you're welcome!
+Just submit an issue or a pull request, thanks!
+
 ## Philosophy
 
 One should know how to do it from scratch so that you aren't limited by
@@ -19,9 +22,11 @@ Start with beginer levels of following and in given order
 -   [CSS](./css.md)
 -   [JS](./js.md)
 
-These contain features and topic that are most use during development.
+*Beginer* level stuff is what you **should** know, *intermidiate* stuff is **good** to know and *Advanced* are **great** to know.
 
-Directory `iste_workflow` contains how we do web development at ISTE
+These contain features and topics that are most used during our development.
+
+Directory `iste_workflow` contains how we do web development at ISTE.
 
 ## Sources
 
@@ -62,7 +67,7 @@ For VS code get plugins from `extensions` option in dock on left.
 For NeoVim get plugin managers like Vim Plug, Vundle etc. and search for awesome
 plugins from [Vim Awesome](https://vimawesome.com).
 
-***Common Pugins**
+**Common Pugins**
 - VS Code/Codium
 	- **Prettier** *beautify code*
 
