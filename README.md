@@ -59,7 +59,7 @@ to be helpful in development.
 
 ### Common Plugins
 - VS Code/Codium
-	- Prettier *beautify code*
+	- **Prettier** *beautify code*
 
 - NeoVim
 	- [CoC.nvim](https://github.com/neoclide/coc.nvim) *Code completion*
