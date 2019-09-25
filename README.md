@@ -9,7 +9,7 @@ in any project.
 If you want to add something or put something in a better way you're welcome!
 Just submit an issue or a pull request, thanks!
 
-Have a question that isn't answered or answer is unclear, raise submit an issue
+Have a question that isn't answered or answer is unclear, submit an issue
 on github.
 
 ## Philosophy
