@@ -52,3 +52,9 @@ all tutorials focus around this so don't worry about old new.
 - `canvas` Draw graphics on web platform.
 
 **NOTE:** These aren't all features of HTML but the ones we found useful.
+
+## Navigate
+
+-   [README](./README.md)
+-   [CSS](./css.md)
+-   [JS](./js.md)

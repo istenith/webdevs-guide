@@ -162,3 +162,9 @@ Syllabus may seem overwhelming but it isn't properties are related and are very 
 ## Refrences
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [HTML Dog](https://htmldog.com/guides/css/)
+
+## Navigate
+
+-   [README](./README.md)
+-   [HTML](./html.md)
+-   [JS](./js.md)
