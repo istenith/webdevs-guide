@@ -10,12 +10,15 @@ If you want to add something or put something in a better way you're welcome!
 Just submit an issue or a pull request, thanks!
 
 Have a question that isn't answered or answer is unclear, submit an issue
-on github.
+on GitHub.
 
 ## Philosophy
 
 One should know how to do it from scratch so that you aren't limited by
-libraries you use, and can do it by your own if needed.
+libraries you use, and can do it on your own if needed.
+Also in field as dynamic as **web development** where frame works come and 
+go there has been a focus on using "standard" (passed by W3C) technologies
+than external libraries.
 
 ## Order
 
@@ -49,10 +52,10 @@ Video Tutorials
 You don't need to know every thing completely, you just need to know its name
 or you just have to know feature you want and then use google `how to do SOMETHING`
 
-## Development Evironment
+## Development Environment
 > You are as good as your tools, because people don't have limits, tools do. 
 
-For beginners we would recomend
+For beginners we would recommend
 
 - [VS Code](https://code.visualstudio.com)
 - [VS Codium](https://vscodium.com)

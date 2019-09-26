@@ -11,7 +11,7 @@ That being said JavaScript is a scripting language. It's used to put life in web
 
 ## Beginner
 - **DOM** : Document Object Model
-- Selecting Elemets
+- Selecting Elements
 	- `getElementById()`
 	- `getElementsByClass()`
 	- `getElementsByTagName()`

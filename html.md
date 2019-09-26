@@ -27,7 +27,7 @@ all tutorials focus around this so don't worry about old new.
 	- `script`
 	- `style`
 - HTML Lists
-	- un-ordered list
+	- unordered list
 	- ordered list
 - `id` an `class` in HTML
 - Adding external script
@@ -49,6 +49,6 @@ all tutorials focus around this so don't worry about old new.
 ## Advanced
 - `iframe` 
 - `template`
-- `canvas` Draw grapics on web platform.
+- `canvas` Draw graphics on web platform.
 
 **NOTE:** These aren't all features of HTML but the ones we found useful.
