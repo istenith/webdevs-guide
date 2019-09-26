@@ -1,4 +1,5 @@
 # Webdev's Guide
+![](./webdstart.png)
 
 This repo *(repository)* provides a roadmap of what you need to know to achieve
 a level of proficiency with web-development technologies and stacks.
